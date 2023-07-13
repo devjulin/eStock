@@ -1,0 +1,477 @@
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\prj_eStock.exe.config
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\prj_eStock.exe
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\prj_eStock.pdb
+C:\Users\julio\source\repos\prj_eStock\obj\Debug\prj_eStock.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\prj_eStock\obj\Debug\prj_eStock.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\source\repos\prj_eStock\obj\Debug\prj_eStock.Properties.Resources.resources
+C:\Users\julio\source\repos\prj_eStock\obj\Debug\prj_eStock.csproj.GenerateResource.cache
+C:\Users\julio\source\repos\prj_eStock\obj\Debug\prj_eStock.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\prj_eStock\obj\Debug\prj_eStock.exe
+C:\Users\julio\source\repos\prj_eStock\obj\Debug\prj_eStock.pdb
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\RestSharp.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Buffers.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.CodeDom.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Data.Odbc.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Data.OleDb.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Data.SqlClient.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Drawing.Common.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.IO.Packaging.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.IO.Ports.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Memory.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Security.AccessControl.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Security.Permissions.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\julio\source\repos\prj_eStock\obj\Debug\prj_eStock.csproj.Fody.CopyLocal.cache
+C:\Users\julio\source\repos\prj_eStock\obj\Debug\prj_eStock.csproj.CopyComplete
+C:\Users\julio\source\repos\prj_eStock\obj\Debug\prj_eStock.frm_TelaInicial.resources
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\Google.Protobuf.xml
+C:\Users\julio\source\repos\prj_eStock\bin\Debug\MySql.Data.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\prj_eStock.exe.config
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\prj_eStock.exe
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\prj_eStock.pdb
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Google.Protobuf.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Microsoft.Win32.Registry.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Microsoft.Win32.SystemEvents.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\MySql.Data.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Newtonsoft.Json.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\RestSharp.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Buffers.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.CodeDom.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Data.Odbc.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Data.OleDb.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Data.SqlClient.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Diagnostics.EventLog.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Drawing.Common.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.IO.FileSystem.AccessControl.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.IO.Packaging.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.IO.Ports.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Memory.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Numerics.Vectors.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.AccessControl.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Cryptography.Cng.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Cryptography.Pkcs.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Cryptography.Xml.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Permissions.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Principal.Windows.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.ServiceModel.Syndication.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.ServiceProcess.ServiceController.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Threading.AccessControl.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.AssemblyReference.cache
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.SuggestedBindingRedirects.cache
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.Properties.Resources.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.GenerateResource.cache
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.CoreCompileInputs.cache
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.Fody.CopyLocal.cache
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.CopyComplete
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.exe
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.pdb
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\prj_eStock.exe.config
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\prj_eStock.exe
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\prj_eStock.pdb
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Google.Protobuf.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Microsoft.Win32.Registry.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\MySql.Data.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Newtonsoft.Json.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\RestSharp.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Buffers.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.CodeDom.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Data.Odbc.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Data.OleDb.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Data.SqlClient.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Diagnostics.EventLog.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Drawing.Common.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.IO.Packaging.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.IO.Ports.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Memory.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Numerics.Vectors.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.AccessControl.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Permissions.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Principal.Windows.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.ServiceModel.Syndication.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Threading.AccessControl.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.AssemblyReference.cache
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.SuggestedBindingRedirects.cache
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.frm_TelaInicial.resources
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.Properties.Resources.resources
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.GenerateResource.cache
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.CoreCompileInputs.cache
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.Fody.CopyLocal.cache
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.CopyComplete
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.exe
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.pdb
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuPrincipal.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuPrincipal.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.frm_TelaInicial.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuCliente.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\prj_eStock.exe.config
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\prj_eStock.exe
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\prj_eStock.pdb
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\Google.Protobuf.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\Microsoft.Win32.Registry.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\Microsoft.Win32.SystemEvents.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\MySql.Data.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\Newtonsoft.Json.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\RestSharp.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Buffers.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.CodeDom.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Data.Odbc.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Data.OleDb.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Data.SqlClient.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Diagnostics.EventLog.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Drawing.Common.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.IO.FileSystem.AccessControl.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.IO.Packaging.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.IO.Ports.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Memory.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Numerics.Vectors.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Security.AccessControl.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Security.Cryptography.Cng.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Security.Cryptography.Pkcs.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Security.Cryptography.Xml.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Security.Permissions.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Security.Principal.Windows.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.ServiceModel.Syndication.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.ServiceProcess.ServiceController.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\System.Threading.AccessControl.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.csproj.AssemblyReference.cache
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.csproj.SuggestedBindingRedirects.cache
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.frm_TelaInicial.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.Properties.Resources.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuCliente.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuPrincipal.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.csproj.GenerateResource.cache
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.csproj.CoreCompileInputs.cache
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.csproj.Fody.CopyLocal.cache
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.csproj.CopyComplete
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.exe
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.pdb
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\prj_eStock.exe.config
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\prj_eStock.exe
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\prj_eStock.pdb
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\Google.Protobuf.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\Microsoft.Win32.Registry.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\MySql.Data.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\Newtonsoft.Json.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\RestSharp.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Buffers.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.CodeDom.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Data.Odbc.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Data.OleDb.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Data.SqlClient.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Diagnostics.EventLog.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Drawing.Common.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.IO.Packaging.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.IO.Ports.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Memory.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Numerics.Vectors.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Security.AccessControl.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Security.Permissions.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Security.Principal.Windows.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.ServiceModel.Syndication.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\bin\Debug\System.Threading.AccessControl.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\obj\Debug\prj_eStock.csproj.AssemblyReference.cache
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\obj\Debug\prj_eStock.csproj.SuggestedBindingRedirects.cache
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\obj\Debug\prj_eStock.frm_TelaInicial.resources
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\obj\Debug\prj_eStock.Properties.Resources.resources
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuCliente.resources
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuPrincipal.resources
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\obj\Debug\prj_eStock.csproj.GenerateResource.cache
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\obj\Debug\prj_eStock.csproj.CoreCompileInputs.cache
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\obj\Debug\prj_eStock.csproj.Fody.CopyLocal.cache
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\obj\Debug\prj_eStock.csproj.CopyComplete
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\obj\Debug\prj_eStock.exe
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\1-Entregar HOJE\prj_eStock\obj\Debug\prj_eStock.pdb
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\prj_eStock.exe.config
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\prj_eStock.exe
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\Google.Protobuf.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\Microsoft.Win32.Registry.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\Microsoft.Win32.SystemEvents.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\MySql.Data.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\Newtonsoft.Json.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\RestSharp.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Buffers.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.CodeDom.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Configuration.ConfigurationManager.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Data.Odbc.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Data.OleDb.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Data.SqlClient.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Diagnostics.EventLog.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Drawing.Common.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.IO.FileSystem.AccessControl.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.IO.Packaging.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.IO.Ports.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Memory.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Numerics.Vectors.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Security.AccessControl.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Security.Cryptography.Cng.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Security.Cryptography.Pkcs.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Security.Cryptography.Xml.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Security.Permissions.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Security.Principal.Windows.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.ServiceModel.Syndication.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.ServiceProcess.ServiceController.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Text.Encoding.CodePages.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\bin\Debug\System.Threading.AccessControl.xml
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\obj\Debug\prj_eStock.csproj.AssemblyReference.cache
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\obj\Debug\prj_eStock.csproj.SuggestedBindingRedirects.cache
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\obj\Debug\prj_eStock.frm_TelaInicial.resources
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\obj\Debug\prj_eStock.Properties.Resources.resources
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuCliente.resources
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuPrincipal.resources
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\obj\Debug\prj_eStock.csproj.GenerateResource.cache
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\obj\Debug\prj_eStock.csproj.CoreCompileInputs.cache
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\obj\Debug\prj_eStock.csproj.Fody.CopyLocal.cache
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\obj\Debug\prj_eStock.csproj.CopyComplete
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\obj\Debug\prj_eStock.exe
+S:\#Turma 103-Tec Informatica\UC-16\Grupo 6\eStock\prj_eStock\obj\Debug\prj_eStock.pdb
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\prj_eStock.exe.config
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\prj_eStock.exe
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\prj_eStock.pdb
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\Google.Protobuf.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\Microsoft.Win32.Registry.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\Microsoft.Win32.SystemEvents.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\MySql.Data.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\Newtonsoft.Json.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\RestSharp.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Buffers.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.CodeDom.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Configuration.ConfigurationManager.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Data.Odbc.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Data.OleDb.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Data.SqlClient.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Diagnostics.EventLog.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Drawing.Common.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.IO.FileSystem.AccessControl.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.IO.Packaging.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.IO.Ports.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Memory.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Numerics.Vectors.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Security.AccessControl.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Security.Cryptography.Cng.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Security.Cryptography.Pkcs.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Security.Cryptography.Xml.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Security.Permissions.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Security.Principal.Windows.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.ServiceModel.Syndication.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.ServiceProcess.ServiceController.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Text.Encoding.CodePages.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\bin\Debug\System.Threading.AccessControl.xml
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\obj\Debug\prj_eStock.csproj.AssemblyReference.cache
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\obj\Debug\prj_eStock.csproj.SuggestedBindingRedirects.cache
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\obj\Debug\prj_eStock.frm_TelaInicial.resources
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\obj\Debug\prj_eStock.Properties.Resources.resources
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuCliente.resources
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuPrincipal.resources
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\obj\Debug\prj_eStock.csproj.GenerateResource.cache
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\obj\Debug\prj_eStock.csproj.CoreCompileInputs.cache
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\obj\Debug\prj_eStock.csproj.Fody.CopyLocal.cache
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\obj\Debug\prj_eStock.csproj.CopyComplete
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\obj\Debug\prj_eStock.exe
+S:\#Turma 103-Tec Informatica\UC-16\Equipe 6-eStock\eStock\prj_eStock\obj\Debug\prj_eStock.pdb
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_Estoque.resources
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_Estoque.resources
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuCliente.resources
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_CadFuncionario.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.View.frm_CadFuncionario.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.View.frm_Estoque.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_CadFuncionario.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_OS.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.View.frm_OS.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\PdfSharp.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\PdfSharp.Charting.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\bin\Debug\log4net.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\Backup Projeto eStock com DB\prj_eStock\obj\Debug\prj_eStock.View.frm_SalvarOS.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\log4net.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\PdfSharp.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\PdfSharp.Charting.xml
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_SalvarOS.resources
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\prj_eStock.exe.config
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\prj_eStock.exe
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\prj_eStock.pdb
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\Google.Protobuf.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\log4net.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\MySql.Data.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\PdfSharp.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\PdfSharp.Charting.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\RestSharp.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Buffers.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.CodeDom.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Data.Odbc.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Data.OleDb.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Data.SqlClient.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Drawing.Common.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.IO.Packaging.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.IO.Ports.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Memory.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Security.AccessControl.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Security.Permissions.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.csproj.AssemblyReference.cache
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.View.frm_CadFuncionario.resources
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.View.frm_Estoque.resources
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.View.frm_OS.resources
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.frm_TelaInicial.resources
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.Properties.Resources.resources
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuCliente.resources
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuPrincipal.resources
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.View.frm_SalvarOS.resources
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.csproj.GenerateResource.cache
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.csproj.Fody.CopyLocal.cache
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.csproj.CopyComplete
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.exe
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.pdb
+C:\Users\julio\OneDrive\Documents\Julio\eStock\eStock Programa\prj_eStock\obj\Debug\prj_eStock.View.frm_Pesquisar.resources
+F:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_Pesquisar.resources
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\log4net.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\PdfSharp.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\PdfSharp.Charting.xml
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_OS.resources
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_Pesquisar.resources
+E:\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_SalvarOS.resources
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\prj_eStock.exe.config
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\prj_eStock.exe
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\prj_eStock.pdb
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Google.Protobuf.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\log4net.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\MySql.Data.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\Newtonsoft.Json.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\PdfSharp.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\PdfSharp.Charting.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\RestSharp.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Buffers.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.CodeDom.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Data.Odbc.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Data.OleDb.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Data.SqlClient.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Drawing.Common.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.IO.Packaging.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.IO.Ports.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Memory.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Numerics.Vectors.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.AccessControl.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Permissions.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Security.Principal.Windows.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\bin\Debug\System.Threading.AccessControl.xml
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.AssemblyReference.cache
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.SuggestedBindingRedirects.cache
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_CadFuncionario.resources
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_Estoque.resources
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_OS.resources
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_Pesquisar.resources
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.frm_TelaInicial.resources
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.Properties.Resources.resources
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuCliente.resources
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_MenuPrincipal.resources
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.View.frm_SalvarOS.resources
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.GenerateResource.cache
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.CoreCompileInputs.cache
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.Fody.CopyLocal.cache
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.csproj.CopyComplete
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.exe
+E:\Backup Pendrive 128Gb Curso TI\1-eStock PROJETO [EM DESENVOLVIMENTO]\prj_eStock\obj\Debug\prj_eStock.pdb
