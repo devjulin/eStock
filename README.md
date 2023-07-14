@@ -67,6 +67,13 @@ The application offers the following features:
 
 Contributions to enhance and expand the application are welcome. Feel free to submit pull requests and report issues in the project's repository.
 
-##Images for this Project
+## Project Images
 
-![Tela Inicial.](imgsReadme/telaInicial.png)
+Initial Screen:
+![Tela Inicial](imgsReadme/telaInicial.png)
+
+Service Order:
+![Ordem de Serviço](imgsReadme/O.S.png)
+
+Inventory:
+![Estoque](imgsReadme/stock.png)
