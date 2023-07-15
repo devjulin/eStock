@@ -1,4 +1,10 @@
-# Desktop Forms Application - README
+<div align="center">
+  <h1>eStock - Desktop Forms Application</h1>
+</div>
+
+<div align="center">
+  <img src="imgsReadme/eStock_Logo.png" alt="ILiveMusic Logo">
+</div>
 
 This is the README file for the Desktop Forms application developed in C# using the MVC (Model-View-Controller) pattern with DAO (Data Access Object).
 
@@ -62,6 +68,10 @@ The application offers the following features:
 3. Configure the necessary dependencies and references.
 4. Build and run the project.
 5. Follow the instructions on the graphical interface to utilize the application's features.
+
+## Dependencie
+
+
 
 ## Contribution
 
